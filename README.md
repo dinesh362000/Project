@@ -55,7 +55,7 @@ network.
 19. Final Testing: Conduct thorough testing to verify proper communication and ensure that all 
 configured elements function as intended.
 
-# Image of the fully functional network topology and overview of the configuration
+# Design of the fully functional network topology and overview of the configuration
  0. Network Design topology.
  1. Basic settings to all devices + SSH + Standard ACL for SSH.
  2. VLAN assignment plus all access and trunk ports on 12 and 13 switches.
